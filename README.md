@@ -1,1 +1,1 @@
-Live demo: https://github.com/SONEROLMEZ/sh-cv/
+Live demo: (https://sonerolmez.github.io/sh-cv/)
